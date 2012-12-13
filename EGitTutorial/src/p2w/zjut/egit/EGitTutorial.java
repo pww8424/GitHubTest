@@ -5,5 +5,6 @@ public class EGitTutorial {
 		System.out.println("Git is fun!");
 		System.out.println("Git is cool!");
 		System.out.println("2012-12-13_In Local!");
+		System.out.println("2012-12-13_In GitHub!");
 	}
 }
